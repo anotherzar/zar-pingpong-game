@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private string lossMessage = "MAAF! KAMU KALAH!";
     
     [Header("Game Settings")]
-    [SerializeField] private int winScore = 5;
+    [SerializeField] private int winScore = 11;
     private bool isGameActive = false;
 
     [Header("Events")]
