@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: a502c36b67e2d484fb514e6362eb21cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6795844209433718599
+    second: Cover_Game_0
+  - first:
+      213: 713662842076922070
+    second: Cover_Game_1
+  - first:
+      213: -4110564726167134281
+    second: Cover_Game_2
+  - first:
+      213: -2166484489679397895
+    second: Cover_Game_3
+  - first:
+      213: 1168555448228963470
+    second: Cover_Game_4
+  - first:
+      213: 7798552665072759504
+    second: Cover_Game_5
+  - first:
+      213: -9070997298823795181
+    second: Cover_Game_6
+  - first:
+      213: 5664102363161672738
+    second: Cover_Game_7
+  - first:
+      213: 3035534091179306837
+    second: Cover_Game_8
+  - first:
+      213: -2430699474761525163
+    second: Cover_Game_9
+  - first:
+      213: 1282791923528589148
+    second: Cover_Game_10
+  - first:
+      213: 3033811084467087253
+    second: Cover_Game_11
+  - first:
+      213: -189094268143430611
+    second: Cover_Game_12
+  - first:
+      213: 199476359688045550
+    second: Cover_Game_13
+  - first:
+      213: -4190606548351811757
+    second: Cover_Game_14
+  - first:
+      213: -504015123455188018
+    second: Cover_Game_15
+  - first:
+      213: -4037280006917728108
+    second: Cover_Game_16
+  - first:
+      213: 8908648729286548590
+    second: Cover_Game_17
+  - first:
+      213: -950005888291781948
+    second: Cover_Game_18
+  - first:
+      213: 1302859667208298011
+    second: Cover_Game_19
+  - first:
+      213: 7955455301641956014
+    second: Cover_Game_20
+  - first:
+      213: -1016040004280770991
+    second: Cover_Game_21
+  - first:
+      213: -8921426652612947562
+    second: Cover_Game_22
+  - first:
+      213: 6803427291580181695
+    second: Cover_Game_23
+  - first:
+      213: -5461418705345145450
+    second: Cover_Game_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cover_Game_0
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 802
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0decb82bf40b1a0800000000000000
+      internalID: -6795844209433718599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 893
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0046fd29077e900800000000000000
+      internalID: 713662842076922070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_2
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 802
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf9e86092754f6c0800000000000000
+      internalID: -4110564726167134281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 801
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb144dc5d91fe1e0800000000000000
+      internalID: -2166484489679397895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_4
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 779
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e8082dfa873010800000000000000
+      internalID: 1168555448228963470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 774
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d276d394560a3c60800000000000000
+      internalID: 7798552665072759504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 800
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e641554085d1280800000000000000
+      internalID: -9070997298823795181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 801
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb3bfe61fea9e40800000000000000
+      internalID: 5664102363161672738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 779
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fa4584c22602a20800000000000000
+      internalID: 3035534091179306837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 694
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585c13c4bb644ed0800000000000000
+      internalID: -2430699474761525163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 704
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f59aa35746dc110800000000000000
+      internalID: 1282791923528589148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_11
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 703
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ad458b134a1a20800000000000000
+      internalID: 3033811084467087253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 703
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249f36d3c3306df0800000000000000
+      internalID: -189094268143430611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_13
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 704
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee34b4831bea4c200800000000000000
+      internalID: 199476359688045550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 700
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f701c0c89f7d5c0800000000000000
+      internalID: -4190606548351811757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 703
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec367056ae06109f0800000000000000
+      internalID: -504015123455188018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_16
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 704
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d1e06933b8f7c0800000000000000
+      internalID: -4037280006917728108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 704
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1cd9b1d0e1ab70800000000000000
+      internalID: 8908648729286548590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 250
+        width: 166
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c6dd8da6e0d2f0800000000000000
+      internalID: -950005888291781948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e5228e6ffa41210800000000000000
+      internalID: 1302859667208298011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaedd07274776e60800000000000000
+      internalID: 7955455301641956014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 135
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e1243dffc46e1f0800000000000000
+      internalID: -1016040004280770991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 146
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919d492ab9b03480800000000000000
+      internalID: -8921426652612947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca5d95311aa6e50800000000000000
+      internalID: 6803427291580181695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cover_Game_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 63
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6959a329f942534b0800000000000000
+      internalID: -5461418705345145450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cover_Game_0: -6795844209433718599
+      Cover_Game_1: 713662842076922070
+      Cover_Game_10: 1282791923528589148
+      Cover_Game_11: 3033811084467087253
+      Cover_Game_12: -189094268143430611
+      Cover_Game_13: 199476359688045550
+      Cover_Game_14: -4190606548351811757
+      Cover_Game_15: -504015123455188018
+      Cover_Game_16: -4037280006917728108
+      Cover_Game_17: 8908648729286548590
+      Cover_Game_18: -950005888291781948
+      Cover_Game_19: 1302859667208298011
+      Cover_Game_2: -4110564726167134281
+      Cover_Game_20: 7955455301641956014
+      Cover_Game_21: -1016040004280770991
+      Cover_Game_22: -8921426652612947562
+      Cover_Game_23: 6803427291580181695
+      Cover_Game_24: -5461418705345145450
+      Cover_Game_3: -2166484489679397895
+      Cover_Game_4: 1168555448228963470
+      Cover_Game_5: 7798552665072759504
+      Cover_Game_6: -9070997298823795181
+      Cover_Game_7: 5664102363161672738
+      Cover_Game_8: 3035534091179306837
+      Cover_Game_9: -2430699474761525163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
